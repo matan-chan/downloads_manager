@@ -1,0 +1,14 @@
+{
+  "downloads_folder": "C:/Users/Snir/Desktop",
+  "loop_every_x_second": 300,
+  "types": [
+    {
+      "type": ".mp3",
+      "path": "C:/Users/Snir/Desktop/songs"
+    },
+    {
+      "type": ".pdf",
+      "path": "C:/Users/Snir/Desktop/pdfs"
+    }
+  ]
+}
